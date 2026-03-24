@@ -1,2 +1,12 @@
-# violinpracticepro-site
-Violin Practice Pro helps violinists practice with more structure by comparing an uploaded score and performance, then generating passage-based feedback and guided practice tasks.
+# Violin Practice Pro Static Website
+
+Includes:
+- Home
+- Support
+- Privacy Policy
+- Terms of Service
+- FAQ
+
+Run locally:
+python -m http.server 8000
+Then open http://localhost:8000
